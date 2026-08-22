@@ -2,6 +2,7 @@
 
 [![Live Demos](https://img.shields.io/badge/Live_Projects-Online-brightgreen?style=for-the-badge&logo=render)](https://game-kids-1-3.onrender.com/)
 [![Feedback Welcome](https://img.shields.io/badge/Feedback-Roast_Me_Gently-ff69b4?style=for-the-badge)]()
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_Free_Games-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/SelenaZara)
 [![Star on GitHub](https://img.shields.io/badge/⭐_Star_This_Repo-Encourage_Me-yellow?style=for-the-badge)](https://github.com/SelenaZara)
 
 > 👋 **Hello World!**  
@@ -58,6 +59,23 @@
 - 🏆 **Rewarding Milestones**: Fun particle effects, audio celebrations, and visual feedback upon each successful match.
 - 📱 **Tablet & Touch Optimized**: Built for smooth gameplay on iPads, Android tablets, and phones.
 - ⚡ **High-Performance Go Server**: Fast, lightweight standard library Go backend deployed on Render.
+
+---
+
+## ☕ Support Ad-Free & Safe Toddler Games
+
+These games are **100% free, private, and ad-free**—designed without annoying popup ads or tracking cookies that distract young kids.
+
+If you or your toddler enjoyed playing and you'd like to support the hosting costs and future educational games:
+
+<div align="center">
+  <br/>
+  <a href="https://www.buymeacoffee.com/SelenaZara">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Donate_$3-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="42" />
+  </a>
+  <br/><br/>
+  <sub><i>Every coffee supports server uptime and new free educational mini-games! Thank you! 💖</i></sub>
+</div>
 
 ---
 
