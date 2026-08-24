@@ -18,7 +18,7 @@
 | :--- | :---: | :--- | :--- | :---: |
 | 🎈 **Floating Wonders** | Ages 1–3 | Antigravity popping game with oversized hitboxes, gentle chimes & zero frustration. | [🔗 Launch Game](https://game-kids-1-3.onrender.com/) | 🟢 **Live** |
 | 🚀 **Space Antigravity** | Ages 4–6 | Space-themed antigravity sorting & matching game designed to build motor skills and logic. | [🔗 Launch Game](https://game-kids-4-6.onrender.com/) | 🟢 **Live** |
-| 🔮 **Project #3** | All Ages | Next exciting web experiment... | *Coming Soon* | 🟡 *In Progress* |
+| 📚 **Year 1 Language Quest** | Ages 6–7 (Year 1) | Interactive literacy & spelling mini-games aligned with standard primary curriculum skills. | [🔗 Launch Game](https://game-my-year1-english.onrender.com/) | 🟢 **Live** |
 
 ---
 
@@ -59,6 +59,26 @@
 - 🏆 **Rewarding Milestones**: Fun particle effects, audio celebrations, and visual feedback upon each successful match.
 - 📱 **Tablet & Touch Optimized**: Built for smooth gameplay on iPads, Android tablets, and phones.
 - ⚡ **High-Performance Go Server**: Fast, lightweight standard library Go backend deployed on Render.
+
+---
+
+## 📚 Project 3: Year 1 Language Quest (Ages 6–7)
+
+<div align="center">
+  <p><b>An educational literacy game designed to boost vocabulary, spelling, and phonetic awareness for Year 1 students.</b></p>
+  <a href="https://game-my-year1-english.onrender.com/">
+    <img src="https://img.shields.io/badge/▶_PLAY_GAME_(YEAR_1)-https%3A%2F%2Fgame--my--year1--english.onrender.com-a855f7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Play Year 1 Game" height="38" />
+  </a>
+</div>
+
+<br/>
+
+### ✨ Highlights:
+- 🔤 **Curriculum-Aligned Literacy**: Focuses on vowels, consonants, syllable building (KV/KVK), and word matching.
+- 🎙️ **Voice & Audio Guidance**: Interactive audio pronunciations and positive voice reinforcement.
+- 🎮 **Engaging Mini-Games**: Feature-rich letter discovery, drag-and-drop syllable connections, and word unscrambling.
+- 🌟 **Gamified Rewards**: Dynamic star badges, confetti celebrations, and interactive score tracking.
+- ⚡ **Go-Powered Web App**: Built with Go templates and lightweight JavaScript for instant loading.
 
 ---
 
