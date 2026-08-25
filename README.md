@@ -19,6 +19,7 @@
 | 🎈 **Floating Wonders** | Ages 1–3 | Antigravity popping game with oversized hitboxes, gentle chimes & zero frustration. | [🔗 Launch Game](https://game-kids-1-3.onrender.com/) | 🟢 **Live** |
 | 🚀 **Space Antigravity** | Ages 4–6 | Space-themed antigravity sorting & matching game designed to build motor skills and logic. | [🔗 Launch Game](https://game-kids-4-6.onrender.com/) | 🟢 **Live** |
 | 📚 **Year 1 Language Quest** | Ages 6–7 (Year 1) | Interactive literacy & spelling mini-games aligned with standard primary curriculum skills. | [🔗 Launch Game](https://game-my-year1-english.onrender.com/) | 🟢 **Live** |
+| 🏛️ **UMP Exam Timetabling (ETP)** | Researchers / Higher Ed | Multi-campus examination timetabling solver utilizing graph heuristics and local search metaheuristics. | *In Progress* | 🟡 **In Progress** |
 
 ---
 
@@ -82,11 +83,30 @@
 
 ---
 
-## ☕ Support Ad-Free & Safe Toddler Games
+## 🏛️ Project 4: UMP Examination Timetabling (ETP) Solver
 
-These games are **100% free, private, and ad-free**—designed without annoying popup ads or tracking cookies that distract young kids.
+<div align="center">
+  <p><b>A web-based optimization tool solving multi-campus Examination Timetabling Problems using UMP real-world datasets.</b></p>
+  <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge&logo=java&logoColor=white" alt="ETP In Progress" height="38" />
+</div>
 
-If you or your toddler enjoyed playing and you'd like to support the hosting costs and future educational games:
+<br/>
+
+### ✨ Highlights:
+- 🏫 **Multi-Campus Allocation**: Schedules examinations across **Gambang** and **Pekan** campuses across 30 distinct examination periods without student overlap conflicts[cite: 3].
+- 🧩 **Two-Phase Optimization Architecture**:
+  - **Initial Phase**: Constructive Graph Heuristics (**Largest Degree**, **Largest Enrolment**, **Saturation Degree**) to generate feasible initial schedules[cite: 1, 3].
+  - **Improvement Phase**: Local search metaheuristics including **Hill Climbing (HC)**, **Late Acceptance Hill Climbing (LAHC)**, and **Step-Counting Hill Climbing (SCHC)**[cite: 1, 3].
+- 📊 **Conflict & Distance Matrix Processing**: Computes student co-occurrences and evaluates room/campus distance penalties dynamically[cite: 3].
+- ☕ **Java & Antigravity Backend**: Powered by Java algorithms designed for research evaluation and desktop-like web interaction[cite: 1, 3].
+
+---
+
+## ☕ Support Ad-Free & Safe Educational Games
+
+These projects are **100% free, private, and ad-free**—designed without annoying popup ads or tracking cookies.
+
+If you'd like to support server uptime and future web apps:
 
 <div align="center">
   <br/>
@@ -94,7 +114,7 @@ If you or your toddler enjoyed playing and you'd like to support the hosting cos
     <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Donate_$3-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="42" />
   </a>
   <br/><br/>
-  <sub><i>Every coffee supports server uptime and new free educational mini-games! Thank you! 💖</i></sub>
+  <sub><i>Every coffee supports server uptime and new free educational & research tools! Thank you! 💖</i></sub>
 </div>
 
 ---
@@ -105,7 +125,7 @@ I'm constantly learning and expanding this playground. If you tested something a
 
 - 🐛 **Report a Bug**: Open an **[Issue](https://github.com/SelenaZara/my-public-website/issues)** to let me know what went wrong.
 - 💡 **Share Ideas**: Drop ideas for new themes, levels, or features you'd like to see!
-- ⭐ **Support the Lab**: If you enjoyed testing these games, please **star this repository**—it encourages me to keep building more!
+- ⭐ **Support the Lab**: If you enjoyed testing these apps, please **star this repository**—it encourages me to keep building more!
 
 ---
 
