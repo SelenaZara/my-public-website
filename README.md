@@ -93,12 +93,12 @@
 <br/>
 
 ### ✨ Highlights:
-- 🏫 **Multi-Campus Allocation**: Schedules examinations across **Gambang** and **Pekan** campuses across 30 distinct examination periods without student overlap conflicts[cite: 3].
+- 🏫 **Multi-Campus Allocation**: Schedules examinations across **Gambang** and **Pekan** campuses across 30 distinct examination periods without student overlap conflicts[cite: 2, 3].
 - 🧩 **Two-Phase Optimization Architecture**:
-  - **Initial Phase**: Constructive Graph Heuristics (**Largest Degree**, **Largest Enrolment**, **Saturation Degree**) to generate feasible initial schedules[cite: 1, 3].
-  - **Improvement Phase**: Local search metaheuristics including **Hill Climbing (HC)**, **Late Acceptance Hill Climbing (LAHC)**, and **Step-Counting Hill Climbing (SCHC)**[cite: 1, 3].
-- 📊 **Conflict & Distance Matrix Processing**: Computes student co-occurrences and evaluates room/campus distance penalties dynamically[cite: 3].
-- ☕ **Java & Antigravity Backend**: Powered by Java algorithms designed for research evaluation and desktop-like web interaction[cite: 1, 3].
+  - **Initial Phase**: Constructive Graph Heuristics (**Largest Degree**, **Largest Enrolment**, **Saturation Degree**) to generate feasible initial schedules[cite: 1, 2].
+  - **Improvement Phase**: Local search metaheuristics including **Hill Climbing (HC)**, **Late Acceptance Hill Climbing (LAHC)**, and **Step-Counting Hill Climbing (SCHC)**[cite: 1, 2].
+- 📊 **Conflict & Distance Matrix Processing**: Computes student co-occurrences and evaluates room/campus distance penalties dynamically[cite: 2].
+- ☕ **Java & Antigravity Backend**: Powered by Java algorithms designed for research evaluation and desktop-like web interaction[cite: 1, 2].
 
 ---
 
@@ -121,14 +121,15 @@ If you'd like to support server uptime and future web apps:
 
 ## 💬 Found a Bug or Have an Idea?
 
-I'm constantly learning and expanding this playground. If you tested something and have feedback:
+I'm constantly learning and expanding this playground. If you tested something, have feedback, or want to get in touch:
 
 - 🐛 **Report a Bug**: Open an **[Issue](https://github.com/SelenaZara/my-public-website/issues)** to let me know what went wrong.
 - 💡 **Share Ideas**: Drop ideas for new themes, levels, or features you'd like to see!
+- ✉️ **Contact Me**: Feel free to reach out directly via email at **[selenazara200@gmail.com](mailto:selenazara200@gmail.com)**.
 - ⭐ **Support the Lab**: If you enjoyed testing these apps, please **star this repository**—it encourages me to keep building more!
 
 ---
 
 <div align="center">
-  <sub>Crafted with curiosity & code by <a href="https://github.com/SelenaZara">@SelenaZara</a> 🚀</sub>
+  <sub>Crafted with curiosity & code by <a href="https://github.com/SelenaZara">@SelenaZara</a> 🚀 | Email: <a href="mailto:selenazara200@gmail.com">selenazara200@gmail.com</a></sub>
 </div>
