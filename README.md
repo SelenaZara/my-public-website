@@ -19,7 +19,7 @@
 | 🎈 **Floating Wonders** | Ages 1–3 | Antigravity popping game with oversized hitboxes, gentle chimes & zero frustration. | [🔗 Launch Game](https://game-kids-1-3.onrender.com/) | 🟢 **Live** |
 | 🚀 **Space Antigravity** | Ages 4–6 | Space-themed antigravity sorting & matching game designed to build motor skills and logic. | [🔗 Launch Game](https://game-kids-4-6.onrender.com/) | 🟢 **Live** |
 | 📚 **Year 1 Language Quest** | Ages 6–7 (Year 1) | Interactive literacy & spelling mini-games aligned with standard primary curriculum skills. | [🔗 Launch Game](https://game-my-year1-english.onrender.com/) | 🟢 **Live** |
-| 🏛️ **UMP Exam Timetabling (ETP)** | Researchers / Higher Ed | Multi-campus examination timetabling solver utilizing graph heuristics and local search metaheuristics. | *In Progress* | 🟡 **In Progress** |
+| 🏛️ **UMP Exam Timetabling (ETP)** | Researchers / Higher Ed | Multi-campus examination timetabling solver utilizing graph heuristics and local search metaheuristics. | [🔗 Launch App](https://etp-ump.onrender.com/) | 🟢 **Live** |
 
 ---
 
