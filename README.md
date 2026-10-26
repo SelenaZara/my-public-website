@@ -102,7 +102,7 @@
 - 📊 **Conflict & Distance Matrix Processing**: Computes student co-occurrences and evaluates room/campus distance penalties dynamically[cite: 2].
 - ☕ **Java & Antigravity Backend**: Powered by Java algorithms designed for research evaluation and desktop-like web interaction[cite: 1, 2].
 
-## 📌 About This Project
+### 📌 About This Project
 
 This system was developed during my postgraduate studies at **Universiti Malaysia Pahang (UMP)**[cite: 1]. Due to personal circumstances, I was unable to complete my postgraduate programme — but rather than leaving this work behind, I have chosen to release it publicly so it can benefit researchers, students, and developers around the world.
 
