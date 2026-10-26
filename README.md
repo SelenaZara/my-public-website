@@ -87,7 +87,9 @@
 
 <div align="center">
   <p><b>A web-based optimization tool solving multi-campus Examination Timetabling Problems using UMP real-world datasets.</b></p>
-  <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge&logo=java&logoColor=white" alt="ETP In Progress" height="38" />
+  <a href="https://etp-ump.onrender.com/">
+    <img src="https://img.shields.io/badge/▶_LAUNCH_APP_(ETP_UMP)-https%3A%2F%2Fetp--ump.onrender.com-0284c7?style=for-the-badge&logo=java&logoColor=white" alt="Launch ETP App" height="38" />
+  </a>
 </div>
 
 <br/>
@@ -99,6 +101,12 @@
   - **Improvement Phase**: Local search metaheuristics including **Hill Climbing (HC)**, **Late Acceptance Hill Climbing (LAHC)**, and **Step-Counting Hill Climbing (SCHC)**[cite: 1, 2].
 - 📊 **Conflict & Distance Matrix Processing**: Computes student co-occurrences and evaluates room/campus distance penalties dynamically[cite: 2].
 - ☕ **Java & Antigravity Backend**: Powered by Java algorithms designed for research evaluation and desktop-like web interaction[cite: 1, 2].
+
+## 📌 About This Project
+
+This system was developed during my postgraduate studies at **Universiti Malaysia Pahang (UMP)**[cite: 1]. Due to personal circumstances, I was unable to complete my postgraduate programme — but rather than leaving this work behind, I have chosen to release it publicly so it can benefit researchers, students, and developers around the world.
+
+I hope this project serves as a useful reference or foundation for anyone working on examination timetabling, combinatorial optimization, or related academic scheduling problems.
 
 ---
 
